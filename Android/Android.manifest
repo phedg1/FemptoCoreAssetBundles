@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 559938203
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tier 1 room 1
+      Dependencies: {}
+    Info_1:
+      Name: tier 1 room 2
+      Dependencies: {}
+    Info_2:
+      Name: tier 1 room 3
+      Dependencies: {}
+    Info_3:
+      Name: tier 2 puzzle 0
+      Dependencies: {}
+    Info_4:
+      Name: tier 2 puzzle 1
+      Dependencies: {}
+    Info_5:
+      Name: tier 2 puzzle 2
+      Dependencies: {}
+    Info_6:
+      Name: tier 2 puzzle 3
+      Dependencies: {}
+    Info_7:
+      Name: tier 2 puzzle 4
+      Dependencies: {}
+    Info_8:
+      Name: tier 2 puzzle 5
+      Dependencies: {}
+    Info_9:
+      Name: tier 2 puzzle 6
+      Dependencies: {}
+    Info_10:
+      Name: tier 2 puzzle 7
+      Dependencies: {}
+    Info_11:
+      Name: tier 2 puzzle 8
+      Dependencies: {}
+    Info_12:
+      Name: tier 2 puzzle 9
+      Dependencies: {}

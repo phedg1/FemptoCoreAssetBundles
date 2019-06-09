@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 124276547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3956adfebf1719c735a83c3af4e7dbf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f32ef6d31d2a8c26b197975fe8b4681
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f054e4906ef02b441b6a0a5d48b2dbda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7092b8a036ba38e4abd02c3ad6b7b8f0, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a8e1a3053852e4bae395e881f99cf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7076c806ed328e34a980314d127b59ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d38d337ed36d44489fb53a06034803f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d30c493773dd54c47bb6a58800dd4204, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9973e288af2b8a4419ab459ca53bc988, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 725340b8d3ba0e24097ad73967fd6d85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a14be0bb1b75a6f4886e5529c8a56b5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2038f2bb39390274c984bb8b53e63985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0315cb8c6024fbb4e98116f5c359fadd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ecae84d15cc92b40a6296d5bccaef00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ad5822fd8ec23144a48898f286efc6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d0ca4ffdc314044aa835f72eaf867b3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Rooms/Tier 2 Puzzle 8.unity
+Dependencies: []

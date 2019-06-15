@@ -1,4 +1,4 @@
 syntax: glob
 Android/Android
 Windows/Windows
-*.manifest
+**.manifest
